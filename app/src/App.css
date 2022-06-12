@@ -1,0 +1,17 @@
+body {
+  background-color: #282c34;
+}
+
+.App {
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 10px 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
