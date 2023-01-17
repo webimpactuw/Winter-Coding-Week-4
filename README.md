@@ -1,2 +1,2 @@
 # Winter-Coding-Week-4
-Learn about Basic Terminal Commands + Basic Git
+Use advanced Git/GitHub knowledge to create a directory with all of your names!
